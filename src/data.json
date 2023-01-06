@@ -1,0 +1,90 @@
+[
+  {
+    "image": "TEST1.png",
+    "label": 1
+  },
+  {
+    "image": "TEST2.png",
+    "label": 1
+  },
+  {
+    "image": "TEST3.png",
+    "label": 1
+  },
+  {
+    "image": "TEST4.png",
+    "label": 1
+  },
+  {
+    "image": "TEST5.png",
+    "label": 1
+  },
+  {
+    "image": "TEST6.png",
+    "label": 1
+  },
+  {
+    "image": "TEST7.png",
+    "label": 1
+  },
+  {
+    "image": "TEST8.png",
+    "label": 1
+  },
+  {
+    "image": "TEST9.png",
+    "label": 1
+  },
+  {
+    "image": "TEST10.png",
+    "label": 1
+  },
+  {
+    "image": "TEST11.png",
+    "label": 0
+  },
+  {
+    "image": "TEST12.png",
+    "label": 0
+  },
+  {
+    "image": "TEST13.png",
+    "label": 0
+  },
+  {
+    "image": "TEST14.png",
+    "label": 0
+  },
+  {
+    "image": "TEST15.png",
+    "label": 0
+  },
+  {
+    "image": "TEST16.png",
+    "label": 0
+  },
+  {
+    "image": "TEST17.png",
+    "label": 0
+  },
+  {
+    "image": "TEST18.png",
+    "label": 0
+  },
+  {
+    "image": "TEST19.png",
+    "label": 0
+  },
+  {
+    "image": "TEST20.png",
+    "label": 0
+  },
+  {
+    "image": "TEST21.png",
+    "label": 0
+  },
+  {
+    "image": "TEST22.png",
+    "label": 0
+  }
+]
